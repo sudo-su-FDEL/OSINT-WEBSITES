@@ -1,5 +1,5 @@
 # OSINT-WEBSITES
-A small program with websited and tools that I believe are efficient for OSINT research.
+A small program with websites and tools that I believe are efficient for OSINT research.
 
 
 
