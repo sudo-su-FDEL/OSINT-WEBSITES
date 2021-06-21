@@ -27,7 +27,7 @@ int main()
 		std::cout << "\n [E] Geolocation                                          \t";
 		std::cout << "\n [F] Social Media search                                  \t";
 		std::cout << "\n [G] Misc                                                 \t";
-		std::cout << "\n [H] Exit                                                 \n";
+		std::cout << "\n [z] Exit                                                 \n";
 		std::cout << "  \n\nInput: ";
 
 		std::cin >> choices;
