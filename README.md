@@ -54,6 +54,6 @@ This website highly complements OSINT research on Gmail but you are able to obta
 (Currently only Twitter and Facebook, Instagram has recently updated, needs more research for OSINT opportunites)
 
 # Misc 
-* More webistes with different tools
+* More websites with different tools and for extensive research
 
 
